@@ -1,0 +1,28 @@
+.form-bg {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 50px;
+  border-radius: 10px;
+  max-width: 600px;
+  max-height: 600px;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  background-color: white;
+
+  & small {
+    color: red;
+  }
+
+  h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  button {
+    width: 120px;
+    font-size: 15px;
+  }
+}
+.user-details-input {
+  width: 25rem !important;
+}

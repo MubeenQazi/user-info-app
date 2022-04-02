@@ -4,6 +4,7 @@ import { ToastContainer } from 'react-toastify';
 
 import UserList from '@views/UserList';
 import UserForm from "@views/UserDetail"
+import Navbar from '@components/Navbar'
 import 'react-toastify/dist/ReactToastify.css';
 import "./index.scss"
 
@@ -23,6 +24,7 @@ const App=() => {
       />
 
       <BrowserRouter>
+        <Navbar />
         <Routes>
           <Route path='/' element={ <UserList /> } />
           <Route path='/users/:id' element={ <UserForm /> } />

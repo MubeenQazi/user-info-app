@@ -1,0 +1,26 @@
+.user-list-container {
+    display: grid;
+    grid-template-columns: 90vw;
+    grid-template-rows: 10vh  minmax(60vh, min-content);
+    // align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.user-grid {
+    background-color: white;
+}
+.search-field-container {
+    display: grid;
+    grid-template-columns: 80fr 10fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+   
+    column-gap: 1rem;
+   grid-template-areas: "searchInput  serachBtn ";
+}
+.searchInput {
+    grid-area: searchInput;
+}
+.serachBtn {
+    grid-area: serachBtn;
+}
