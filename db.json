@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "firstName": "Max",
+      "lastName": "James",
+      "fullName": "Max James",
+      "username": "maxjames",
+      "lastLogin": "4/27/2021",
+      "isEnabled": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "willrock",
+      "firstName": "Will",
+      "lastName": "Rock",
+      "fullName": "Will Rock",
+      "isEnabled": false,
+      "lastLogin": "4/27/2021"
+    },
+    {
+      "id": 3,
+      "username": "lucianohyde",
+      "firstName": "Luciano",
+      "lastName": "Hyde",
+      "fullName": "Luciano Hyde",
+      "isEnabled": true,
+      "lastLogin": "6/26/2021"
+    },
+    {
+      "id": 4,
+      "username": "tomipeters",
+      "firstName": "Tomi",
+      "lastName": "Peters",
+      "fullName": "Tomi Peters",
+      "isEnabled": true,
+      "lastLogin": "11/25/2021"
+    },
+    {
+      "id": 5,
+      "username": "jagdeepchamberlain",
+      "firstName": "Jagdeep",
+      "lastName": "Chamberlain",
+      "fullName": "Jagdeep Chamberlain",
+      "isEnabled": false,
+      "lastLogin": "12/14/2021"
+    },
+    {
+      "id": 6,
+      "username": "estelleriley",
+      "firstName": "Estelle",
+      "lastName": "Riley",
+      "fullName": "Estelle Riley",
+      "isEnabled": false,
+      "lastLogin": "7/19/2020"
+    },
+    {
+      "id": 7,
+      "username": "charlenemorin",
+      "firstName": "Charlene",
+      "lastName": "Morin",
+      "fullName": "Charlene Morin",
+      "isEnabled": true,
+      "lastLogin": "10/29/2021"
+    },
+    {
+      "id": 8,
+      "username": "abigalemohammed",
+      "firstName": "Abigale",
+      "lastName": "Mohammed",
+      "fullName": "Abigale Mohammed",
+      "isEnabled": false,
+      "lastLogin": "1/13/2022"
+    },
+    {
+      "id": 9,
+      "username": "alawhodson",
+      "firstName": "Alaw",
+      "lastName": "Hodson",
+      "fullName": "Alaw Hodson",
+      "isEnabled": true,
+      "lastLogin": "4/25/2022"
+    },
+    {
+      "id": 10,
+      "username": "craigmanning",
+      "firstName": "Craig",
+      "lastName": "Manning",
+      "fullName": "Craig Manning",
+      "isEnabled": true,
+      "lastLogin": "10/11/2022"
+    },
+    {
+      "id": 11,
+      "username": "moazamhussain",
+      "firstName": "mmmm",
+      "lastName": "ssss",
+      "fullName": "mmmmssss",
+      "isEnabled": false,
+      "lastLogin": "11/15/2020"
+    },
+    {
+      "username": "ss",
+      "firstName": "sdsadsa",
+      "lastName": "sss",
+      "fullName": "sdsadsasss",
+      "isEnabled": false,
+      "lastLogin": "11/15/2020",
+      "id": 12
+    }
+  ]
+}
