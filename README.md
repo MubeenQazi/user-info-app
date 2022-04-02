@@ -51,6 +51,12 @@ To develop and run your web application, you need to run following command :
 yarn start
 ```
 
+Now to run the server, you need to run following command :
+
+```bash
+json-server --watch db.json
+```
+
 <br />
 
 ## Lint : Development
