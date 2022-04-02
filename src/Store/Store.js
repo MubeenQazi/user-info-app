@@ -18,8 +18,7 @@ export const createUserStore = () => {
     },
     addUser(userObj) {
       const user = axios.post(`/users`, userObj);
-      const updatedUsersArr = this.users.push(user);
-      return updatedUsersArr;
+      return user;
     },
   };
 };
